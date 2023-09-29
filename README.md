@@ -9,6 +9,7 @@ There are still some things that we need to work on:
 - A & B notes sound --> too low an octave
 - The jump isn't satisfying - needs more gravity (inputs from our friends!)
 - Only have a choice of 3 songs (Sinanggar Tulo, Soleram, Suwe Ora Jamu)
+
 Please wait for the next update :D
 
 ---
